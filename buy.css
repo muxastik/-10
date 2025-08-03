@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.text {
+    text-align: center;
+    margin-top: 25px;
+    color: black;
+    font-size: 50px;
+    text-shadow: 10px 10px 30px gray;
+    transition: 0.3s;
+}
+
+
+.text:hover {
+    color: green;
+}
+
+
+.img {
+    width: 100px;
+    margin-left: 1150px;
+    margin-top: -70px;
+}
+
+
+.iframe_geo { 
+    margin-left: 610px;
+    margin-top: 20px;
+    width: 700px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+
+.iframe_geo:hover {
+    width: 710px;
+}
+
+
+
+.inp {
+    width: 240px;
+    height: 40px;
+    margin-left: 825px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+
+
+.bt {
+   margin-top: 20px;
+   margin-left: 880px;
+   width: 130px;
+   height: 35px;
+   font-size: 23px;
+   background-color: white;
+   border: dotted 1px;
+   margin-bottom: 100px;
+}
+
+
+
+.bt a {
+    color: black;
+    text-decoration: none;
+}

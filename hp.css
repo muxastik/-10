@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+body {
+    background-color:  rgb(240, 248, 255);
+}
+
+
+.text {
+    color: rgb(0, 207, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+
+.text2 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+}
+
+
+.back {
+    display: flex;
+    margin-top: 70px;
+    margin-left: 125px;
+    gap: 85px;
+}
+
+
+.img1 {
+    background-color: rgb(156, 255, 156);
+    width: 350px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+
+.sell_text {
+    text-align: center;
+}
+
+
+.bt {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: 7px;
+    border: 1px black dashed;
+}
+
+
+
+.bt a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+.box2 {
+    background-color: rgb(156, 255, 156);
+    margin-top: -5px;
+    height: 90px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+
+.back2 {
+  margin-left: 125px;
+  margin-top: 80px;
+  display: flex;
+  gap: 85px;
+}
+
+
+.box3 {
+    background-color: rgb(156, 255, 156);
+    margin-top: -5px;
+    height: 90px;
+    border-radius: 0px 0px 20px 20px;
+    width: 350px;   
+}
+
+
+.sell_text2 {
+    text-align: center;
+}
